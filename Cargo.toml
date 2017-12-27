@@ -1,0 +1,7 @@
+[package]
+name = "qlearn"
+version = "0.1.0"
+authors = ["Jonathan E. McMahon <jmcmahon32@gatech.edu>"]
+
+[dependencies]
+rand = "0.3"
